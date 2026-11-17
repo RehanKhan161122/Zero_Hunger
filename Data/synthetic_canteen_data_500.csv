@@ -1,0 +1,501 @@
+date,day_of_week,menu_item,price_inr,meals_prepared,meals_sold,leftover_portions,estimated_waste_kg,waste_percentage,revenue_inr,weather,exam_period,college_event
+2026-01-05,Monday,Paneer Rice Bowl,95,108,85,23,5.5,21.3,8075,Sunny,Yes,No
+2026-01-06,Tuesday,Veg Thali,80,142,116,26,6.54,18.31,9280,Rainy,Yes,No
+2026-01-07,Wednesday,Poha,35,110,88,22,4.71,20.0,3080,Cloudy,No,No
+2026-01-08,Thursday,Dal Khichdi,60,103,87,16,4.24,15.53,5220,Sunny,No,No
+2026-01-09,Friday,Rajma Rice,75,110,94,16,4.21,14.55,7050,Cloudy,No,Yes
+2026-01-10,Saturday,Rajma Rice,75,56,41,15,3.04,26.79,3075,Sunny,No,No
+2026-01-11,Sunday,Chole Bhature,70,54,39,15,3.23,27.78,2730,Sunny,No,No
+2026-01-12,Monday,Chole Bhature,70,140,107,33,8.35,23.57,7490,Sunny,No,No
+2026-01-13,Tuesday,Dal Khichdi,60,96,86,10,1.86,10.42,5160,Rainy,No,No
+2026-01-14,Wednesday,Veg Thali,80,178,165,13,3.48,7.3,13200,Sunny,No,No
+2026-01-15,Thursday,Veg Biryani,85,124,109,15,3.09,12.1,9265,Rainy,No,No
+2026-01-16,Friday,Rajma Rice,75,126,117,9,2.08,7.14,8775,Cloudy,No,No
+2026-01-17,Saturday,Paneer Rice Bowl,95,52,40,12,2.62,23.08,3800,Sunny,No,No
+2026-01-18,Sunday,Pav Bhaji,65,56,42,14,3.76,25.0,2730,Sunny,No,No
+2026-01-19,Monday,Chole Bhature,70,121,96,25,5.16,20.66,6720,Cloudy,No,No
+2026-01-20,Tuesday,Poha,35,117,86,31,7.56,26.5,3010,Sunny,No,No
+2026-01-21,Wednesday,Rajma Rice,75,105,80,25,5.31,23.81,6000,Sunny,No,No
+2026-01-22,Thursday,Veg Thali,80,132,111,21,4.97,15.91,8880,Cloudy,Yes,No
+2026-01-23,Friday,Paneer Rice Bowl,95,105,96,9,2.47,8.57,9120,Sunny,Yes,No
+2026-01-24,Saturday,Dal Khichdi,60,55,44,11,2.81,20.0,2640,Cloudy,No,No
+2026-01-25,Sunday,Masala Dosa,55,55,43,12,2.43,21.82,2365,Rainy,No,No
+2026-01-26,Monday,Veg Biryani,85,87,72,15,3.65,17.24,6120,Rainy,Yes,No
+2026-01-27,Tuesday,Masala Dosa,55,150,114,36,6.96,24.0,6270,Cloudy,Yes,Yes
+2026-01-28,Wednesday,Rajma Rice,75,146,108,38,7.21,26.03,8100,Cloudy,No,No
+2026-01-29,Thursday,Idli Sambar,45,123,92,31,7.84,25.2,4140,Rainy,No,No
+2026-01-30,Friday,Paneer Rice Bowl,95,134,114,20,4.53,14.93,10830,Cloudy,No,No
+2026-01-31,Saturday,Paneer Rice Bowl,95,64,48,16,3.03,25.0,4560,Rainy,No,No
+2026-02-01,Sunday,Masala Dosa,55,79,64,15,2.95,18.99,3520,Sunny,No,No
+2026-02-02,Monday,Veg Thali,80,208,171,37,9.11,17.79,13680,Cloudy,No,No
+2026-02-03,Tuesday,Pav Bhaji,65,172,141,31,7.9,18.02,9165,Sunny,No,No
+2026-02-04,Wednesday,Veg Thali,80,142,123,19,4.55,13.38,9840,Rainy,Yes,No
+2026-02-05,Thursday,Masala Dosa,55,159,141,18,4.35,11.32,7755,Rainy,No,No
+2026-02-06,Friday,Idli Sambar,45,129,97,32,7.03,24.81,4365,Cloudy,No,No
+2026-02-07,Saturday,Chole Bhature,70,48,45,3,0.71,6.25,3150,Sunny,No,No
+2026-02-08,Sunday,Paneer Rice Bowl,95,42,37,5,1.04,11.9,3515,Cloudy,Yes,No
+2026-02-09,Monday,Pav Bhaji,65,154,121,33,7.69,21.43,7865,Rainy,No,No
+2026-02-10,Tuesday,Poha,35,105,78,27,5.62,25.71,2730,Sunny,No,No
+2026-02-11,Wednesday,Masala Dosa,55,181,139,42,8.61,23.2,7645,Rainy,No,No
+2026-02-12,Thursday,Veg Thali,80,151,143,8,1.57,5.3,11440,Cloudy,Yes,No
+2026-02-13,Friday,Pav Bhaji,65,135,128,7,1.74,5.19,8320,Sunny,No,No
+2026-02-14,Saturday,Dal Khichdi,60,36,32,4,1.09,11.11,1920,Rainy,No,No
+2026-02-15,Sunday,Veg Thali,80,92,71,21,4.96,22.83,5680,Sunny,No,No
+2026-02-16,Monday,Idli Sambar,45,149,121,28,5.11,18.79,5445,Sunny,No,No
+2026-02-17,Tuesday,Veg Biryani,85,117,94,23,4.75,19.66,7990,Rainy,No,No
+2026-02-18,Wednesday,Paneer Rice Bowl,95,177,143,34,8.82,19.21,13585,Cloudy,No,Yes
+2026-02-19,Thursday,Masala Dosa,55,175,158,17,4.7,9.71,8690,Cloudy,No,No
+2026-02-20,Friday,Chole Bhature,70,142,101,41,11.36,28.87,7070,Rainy,No,No
+2026-02-21,Saturday,Dal Khichdi,60,46,41,5,1.26,10.87,2460,Sunny,No,No
+2026-02-22,Sunday,Veg Biryani,85,60,54,6,1.08,10.0,4590,Sunny,No,No
+2026-02-23,Monday,Poha,35,106,83,23,4.3,21.7,2905,Rainy,No,No
+2026-02-24,Tuesday,Veg Biryani,85,151,128,23,5.07,15.23,10880,Sunny,No,No
+2026-02-25,Wednesday,Chole Bhature,70,112,87,25,6.76,22.32,6090,Rainy,No,No
+2026-02-26,Thursday,Rajma Rice,75,136,107,29,6.15,21.32,8025,Sunny,No,No
+2026-02-27,Friday,Pav Bhaji,65,164,134,30,7.61,18.29,8710,Cloudy,No,No
+2026-02-28,Saturday,Paneer Rice Bowl,95,52,42,10,2.02,19.23,3990,Rainy,No,No
+2026-03-01,Sunday,Masala Dosa,55,102,86,16,3.61,15.69,4730,Cloudy,No,Yes
+2026-03-02,Monday,Rajma Rice,75,129,108,21,5.59,16.28,8100,Cloudy,No,No
+2026-03-03,Tuesday,Paneer Rice Bowl,95,129,99,30,6.15,23.26,9405,Rainy,No,No
+2026-03-04,Wednesday,Paneer Rice Bowl,95,100,90,10,2.24,10.0,8550,Rainy,No,No
+2026-03-05,Thursday,Poha,35,109,86,23,5.23,21.1,3010,Cloudy,No,No
+2026-03-06,Friday,Chole Bhature,70,131,102,29,5.44,22.14,7140,Cloudy,No,No
+2026-03-07,Saturday,Chole Bhature,70,39,34,5,1.09,12.82,2380,Rainy,No,No
+2026-03-08,Sunday,Dal Khichdi,60,54,52,2,0.44,3.7,3120,Cloudy,No,Yes
+2026-03-09,Monday,Rajma Rice,75,162,126,36,7.75,22.22,9450,Rainy,No,Yes
+2026-03-10,Tuesday,Idli Sambar,45,99,81,18,4.12,18.18,3645,Cloudy,No,No
+2026-03-11,Wednesday,Chole Bhature,70,156,130,26,6.56,16.67,9100,Cloudy,No,Yes
+2026-03-12,Thursday,Pav Bhaji,65,146,110,36,8.79,24.66,7150,Rainy,No,No
+2026-03-13,Friday,Dal Khichdi,60,114,92,22,4.68,19.3,5520,Cloudy,No,No
+2026-03-14,Saturday,Idli Sambar,45,45,42,3,0.84,6.67,1890,Cloudy,No,No
+2026-03-15,Sunday,Veg Biryani,85,76,65,11,2.25,14.47,5525,Rainy,No,Yes
+2026-03-16,Monday,Veg Thali,80,180,163,17,4.36,9.44,13040,Cloudy,No,No
+2026-03-17,Tuesday,Dal Khichdi,60,81,77,4,1.11,4.94,4620,Rainy,No,No
+2026-03-18,Wednesday,Paneer Rice Bowl,95,105,91,14,2.63,13.33,8645,Rainy,No,No
+2026-03-19,Thursday,Masala Dosa,55,71,54,17,4.73,23.94,2970,Rainy,Yes,No
+2026-03-20,Friday,Veg Thali,80,214,196,18,4.12,8.41,15680,Cloudy,No,No
+2026-03-21,Saturday,Idli Sambar,45,57,45,12,3.04,21.05,2025,Cloudy,No,No
+2026-03-22,Sunday,Chole Bhature,70,44,35,9,1.84,20.45,2450,Cloudy,No,No
+2026-03-23,Monday,Paneer Rice Bowl,95,146,122,24,5.13,16.44,11590,Cloudy,No,No
+2026-03-24,Tuesday,Pav Bhaji,65,128,113,15,4.02,11.72,7345,Sunny,No,No
+2026-03-25,Wednesday,Poha,35,75,64,11,2.59,14.67,2240,Sunny,Yes,No
+2026-03-26,Thursday,Masala Dosa,55,140,119,21,4.29,15.0,6545,Cloudy,No,No
+2026-03-27,Friday,Rajma Rice,75,130,114,16,3.41,12.31,8550,Cloudy,No,No
+2026-03-28,Saturday,Pav Bhaji,65,66,55,11,2.74,16.67,3575,Sunny,No,No
+2026-03-29,Sunday,Masala Dosa,55,55,46,9,2.16,16.36,2530,Rainy,No,No
+2026-03-30,Monday,Paneer Rice Bowl,95,140,111,29,8.05,20.71,10545,Cloudy,No,No
+2026-03-31,Tuesday,Poha,35,102,78,24,6.41,23.53,2730,Rainy,No,No
+2026-04-01,Wednesday,Rajma Rice,75,146,110,36,9.44,24.66,8250,Cloudy,No,No
+2026-04-02,Thursday,Idli Sambar,45,97,83,14,3.31,14.43,3735,Rainy,No,No
+2026-04-03,Friday,Chole Bhature,70,88,65,23,5.34,26.14,4550,Rainy,Yes,No
+2026-04-04,Saturday,Pav Bhaji,65,53,38,15,3.63,28.3,2470,Rainy,No,No
+2026-04-05,Sunday,Rajma Rice,75,50,43,7,1.65,14.0,3225,Sunny,No,No
+2026-04-06,Monday,Dal Khichdi,60,68,53,15,3.13,22.06,3180,Rainy,Yes,No
+2026-04-07,Tuesday,Chole Bhature,70,121,95,26,6.77,21.49,6650,Rainy,No,No
+2026-04-08,Wednesday,Masala Dosa,55,135,116,19,3.69,14.07,6380,Rainy,No,No
+2026-04-09,Thursday,Veg Thali,80,206,172,34,7.15,16.5,13760,Rainy,No,No
+2026-04-10,Friday,Idli Sambar,45,85,72,13,3.5,15.29,3240,Cloudy,No,No
+2026-04-11,Saturday,Veg Biryani,85,112,96,16,4.48,14.29,8160,Sunny,No,Yes
+2026-04-12,Sunday,Chole Bhature,70,52,44,8,2.17,15.38,3080,Sunny,No,No
+2026-04-13,Monday,Dal Khichdi,60,127,104,23,4.38,18.11,6240,Cloudy,No,No
+2026-04-14,Tuesday,Dal Khichdi,60,115,91,24,6.15,20.87,5460,Cloudy,No,No
+2026-04-15,Wednesday,Veg Thali,80,257,207,50,9.01,19.46,16560,Cloudy,No,No
+2026-04-16,Thursday,Poha,35,128,114,14,3.4,10.94,3990,Rainy,No,Yes
+2026-04-17,Friday,Veg Thali,80,157,149,8,1.93,5.1,11920,Cloudy,No,No
+2026-04-18,Saturday,Masala Dosa,55,72,55,17,4.75,23.61,3025,Sunny,No,No
+2026-04-19,Sunday,Paneer Rice Bowl,95,49,39,10,2.63,20.41,3705,Sunny,No,No
+2026-04-20,Monday,Pav Bhaji,65,134,121,13,3.31,9.7,7865,Cloudy,No,No
+2026-04-21,Tuesday,Dal Khichdi,60,96,77,19,4.8,19.79,4620,Cloudy,No,No
+2026-04-22,Wednesday,Rajma Rice,75,154,128,26,5.54,16.88,9600,Sunny,No,No
+2026-04-23,Thursday,Poha,35,109,97,12,2.65,11.01,3395,Sunny,No,No
+2026-04-24,Friday,Veg Biryani,85,155,135,20,5.24,12.9,11475,Cloudy,No,No
+2026-04-25,Saturday,Dal Khichdi,60,58,55,3,0.57,5.17,3300,Rainy,No,Yes
+2026-04-26,Sunday,Pav Bhaji,65,44,31,13,3.36,29.55,2015,Rainy,Yes,No
+2026-04-27,Monday,Chole Bhature,70,129,103,26,7.16,20.16,7210,Rainy,No,No
+2026-04-28,Tuesday,Pav Bhaji,65,178,161,17,3.55,9.55,10465,Sunny,No,Yes
+2026-04-29,Wednesday,Masala Dosa,55,138,118,20,4.2,14.49,6490,Sunny,No,No
+2026-04-30,Thursday,Veg Thali,80,117,99,18,3.68,15.38,7920,Cloudy,Yes,No
+2026-05-01,Friday,Idli Sambar,45,120,105,15,3.45,12.5,4725,Sunny,No,No
+2026-05-02,Saturday,Rajma Rice,75,67,57,10,2.7,14.93,4275,Cloudy,No,No
+2026-05-03,Sunday,Pav Bhaji,65,89,64,25,6.91,28.09,4160,Sunny,No,No
+2026-05-04,Monday,Chole Bhature,70,154,111,43,9.38,27.92,7770,Cloudy,No,No
+2026-05-05,Tuesday,Veg Biryani,85,193,150,43,11.46,22.28,12750,Cloudy,No,No
+2026-05-06,Wednesday,Veg Thali,80,226,169,57,14.83,25.22,13520,Cloudy,No,No
+2026-05-07,Thursday,Masala Dosa,55,140,105,35,6.64,25.0,5775,Rainy,No,No
+2026-05-08,Friday,Veg Thali,80,143,115,28,7.59,19.58,9200,Rainy,No,No
+2026-05-09,Saturday,Veg Biryani,85,74,63,11,2.28,14.86,5355,Sunny,No,No
+2026-05-10,Sunday,Dal Khichdi,60,43,31,12,3.2,27.91,1860,Cloudy,No,No
+2026-05-11,Monday,Paneer Rice Bowl,95,214,168,46,11.98,21.5,15960,Sunny,No,Yes
+2026-05-12,Tuesday,Veg Biryani,85,98,80,18,4.45,18.37,6800,Cloudy,Yes,No
+2026-05-13,Wednesday,Chole Bhature,70,121,117,4,0.94,3.31,8190,Cloudy,No,No
+2026-05-14,Thursday,Rajma Rice,75,189,139,50,11.04,26.46,10425,Cloudy,No,Yes
+2026-05-15,Friday,Dal Khichdi,60,110,89,21,4.56,19.09,5340,Cloudy,Yes,Yes
+2026-05-16,Saturday,Poha,35,52,41,11,2.9,21.15,1435,Sunny,No,No
+2026-05-17,Sunday,Rajma Rice,75,57,45,12,2.6,21.05,3375,Sunny,No,No
+2026-05-18,Monday,Veg Biryani,85,134,118,16,4.43,11.94,10030,Cloudy,No,No
+2026-05-19,Tuesday,Pav Bhaji,65,96,72,24,4.62,25.0,4680,Rainy,Yes,No
+2026-05-20,Wednesday,Rajma Rice,75,110,93,17,4.54,15.45,6975,Rainy,No,No
+2026-05-21,Thursday,Veg Biryani,85,165,139,26,5.33,15.76,11815,Rainy,No,No
+2026-05-22,Friday,Dal Khichdi,60,74,71,3,0.61,4.05,4260,Sunny,Yes,No
+2026-05-23,Saturday,Veg Biryani,85,54,42,12,3.09,22.22,3570,Sunny,Yes,No
+2026-05-24,Sunday,Poha,35,43,30,13,3.36,30.23,1050,Sunny,No,No
+2026-05-25,Monday,Poha,35,114,99,15,3.44,13.16,3465,Sunny,No,No
+2026-05-26,Tuesday,Pav Bhaji,65,90,76,14,3.39,15.56,4940,Rainy,Yes,No
+2026-05-27,Wednesday,Rajma Rice,75,106,80,26,6.5,24.53,6000,Rainy,No,No
+2026-05-28,Thursday,Poha,35,108,81,27,7.09,25.0,2835,Cloudy,No,No
+2026-05-29,Friday,Idli Sambar,45,121,94,27,6.14,22.31,4230,Cloudy,No,No
+2026-05-30,Saturday,Paneer Rice Bowl,95,70,54,16,3.09,22.86,5130,Sunny,No,No
+2026-05-31,Sunday,Veg Thali,80,94,76,18,4.0,19.15,6080,Cloudy,No,No
+2026-06-01,Monday,Veg Thali,80,168,152,16,3.13,9.52,12160,Cloudy,No,No
+2026-06-02,Tuesday,Pav Bhaji,65,113,97,16,4.23,14.16,6305,Rainy,No,No
+2026-06-03,Wednesday,Rajma Rice,75,156,129,27,6.73,17.31,9675,Sunny,No,No
+2026-06-04,Thursday,Veg Thali,80,211,177,34,8.35,16.11,14160,Cloudy,No,No
+2026-06-05,Friday,Paneer Rice Bowl,95,118,108,10,2.18,8.47,10260,Sunny,No,No
+2026-06-06,Saturday,Pav Bhaji,65,51,44,7,1.37,13.73,2860,Rainy,No,No
+2026-06-07,Sunday,Rajma Rice,75,56,44,12,2.69,21.43,3300,Cloudy,Yes,No
+2026-06-08,Monday,Chole Bhature,70,119,95,24,5.92,20.17,6650,Cloudy,No,No
+2026-06-09,Tuesday,Veg Thali,80,192,173,19,3.82,9.9,13840,Sunny,No,No
+2026-06-10,Wednesday,Dal Khichdi,60,127,111,16,4.01,12.6,6660,Sunny,No,No
+2026-06-11,Thursday,Poha,35,94,90,4,0.74,4.26,3150,Cloudy,No,No
+2026-06-12,Friday,Veg Thali,80,233,181,52,9.96,22.32,14480,Cloudy,No,Yes
+2026-06-13,Saturday,Veg Thali,80,76,65,11,2.38,14.47,5200,Rainy,No,No
+2026-06-14,Sunday,Idli Sambar,45,47,37,10,2.02,21.28,1665,Rainy,No,No
+2026-06-15,Monday,Dal Khichdi,60,76,66,10,2.15,13.16,3960,Rainy,Yes,No
+2026-06-16,Tuesday,Dal Khichdi,60,125,91,34,9.35,27.2,5460,Sunny,No,No
+2026-06-17,Wednesday,Pav Bhaji,65,135,119,16,3.78,11.85,7735,Rainy,No,No
+2026-06-18,Thursday,Rajma Rice,75,134,109,25,5.19,18.66,8175,Cloudy,No,No
+2026-06-19,Friday,Veg Thali,80,266,207,59,15.53,22.18,16560,Cloudy,No,Yes
+2026-06-20,Saturday,Paneer Rice Bowl,95,54,46,8,2.07,14.81,4370,Sunny,No,No
+2026-06-21,Sunday,Veg Thali,80,71,64,7,1.61,9.86,5120,Rainy,No,No
+2026-06-22,Monday,Veg Thali,80,225,167,58,14.54,25.78,13360,Cloudy,No,No
+2026-06-23,Tuesday,Pav Bhaji,65,139,114,25,5.52,17.99,7410,Cloudy,No,No
+2026-06-24,Wednesday,Veg Biryani,85,161,150,11,2.29,6.83,12750,Rainy,No,Yes
+2026-06-25,Thursday,Rajma Rice,75,118,99,19,4.01,16.1,7425,Rainy,No,No
+2026-06-26,Friday,Idli Sambar,45,116,95,21,5.19,18.1,4275,Sunny,No,No
+2026-06-27,Saturday,Poha,35,33,28,5,0.99,15.15,980,Rainy,Yes,No
+2026-06-28,Sunday,Masala Dosa,55,61,59,2,0.38,3.28,3245,Sunny,No,No
+2026-06-29,Monday,Poha,35,113,95,18,4.35,15.93,3325,Sunny,No,No
+2026-06-30,Tuesday,Rajma Rice,75,113,100,13,2.87,11.5,7500,Rainy,No,No
+2026-07-01,Wednesday,Masala Dosa,55,111,83,28,5.71,25.23,4565,Rainy,No,No
+2026-07-02,Thursday,Pav Bhaji,65,170,137,33,7.2,19.41,8905,Rainy,No,No
+2026-07-03,Friday,Poha,35,97,71,26,5.33,26.8,2485,Sunny,No,No
+2026-01-05,Monday,Pav Bhaji,65,127,107,20,3.92,15.75,6955,Sunny,No,No
+2026-01-06,Tuesday,Pav Bhaji,65,112,107,5,1.31,4.46,6955,Cloudy,No,No
+2026-01-07,Wednesday,Veg Biryani,85,162,118,44,8.04,27.16,10030,Cloudy,No,No
+2026-01-08,Thursday,Paneer Rice Bowl,95,126,109,17,4.47,13.49,10355,Sunny,No,No
+2026-01-09,Friday,Dal Khichdi,60,102,94,8,1.88,7.84,5640,Rainy,No,No
+2026-01-10,Saturday,Rajma Rice,75,55,45,10,2.04,18.18,3375,Cloudy,No,No
+2026-01-11,Sunday,Rajma Rice,75,57,45,12,2.33,21.05,3375,Cloudy,No,No
+2026-01-12,Monday,Idli Sambar,45,71,61,10,1.89,14.08,2745,Rainy,Yes,No
+2026-01-13,Tuesday,Veg Biryani,85,96,93,3,0.55,3.12,7905,Rainy,Yes,No
+2026-01-14,Wednesday,Idli Sambar,45,96,76,20,4.08,20.83,3420,Sunny,No,No
+2026-01-15,Thursday,Paneer Rice Bowl,95,142,124,18,4.73,12.68,11780,Cloudy,No,No
+2026-01-16,Friday,Pav Bhaji,65,166,120,46,11.85,27.71,7800,Sunny,No,No
+2026-01-17,Saturday,Pav Bhaji,65,47,40,7,1.83,14.89,2600,Sunny,Yes,No
+2026-01-18,Sunday,Pav Bhaji,65,57,52,5,0.92,8.77,3380,Sunny,No,No
+2026-01-19,Monday,Veg Biryani,85,201,151,50,13.87,24.88,12835,Cloudy,No,No
+2026-01-20,Tuesday,Pav Bhaji,65,107,87,20,4.45,18.69,5655,Rainy,No,No
+2026-01-21,Wednesday,Idli Sambar,45,97,81,16,3.59,16.49,3645,Rainy,No,No
+2026-01-22,Thursday,Idli Sambar,45,109,105,4,0.86,3.67,4725,Cloudy,No,No
+2026-01-23,Friday,Idli Sambar,45,128,115,13,3.22,10.16,5175,Sunny,No,No
+2026-01-24,Saturday,Veg Thali,80,90,77,13,3.35,14.44,6160,Cloudy,No,No
+2026-01-25,Sunday,Veg Biryani,85,67,49,18,4.61,26.87,4165,Sunny,No,No
+2026-01-26,Monday,Rajma Rice,75,121,93,28,5.36,23.14,6975,Cloudy,No,No
+2026-01-27,Tuesday,Dal Khichdi,60,124,93,31,7.48,25.0,5580,Rainy,No,No
+2026-01-28,Wednesday,Pav Bhaji,65,162,142,20,4.49,12.35,9230,Sunny,No,No
+2026-01-29,Thursday,Paneer Rice Bowl,95,126,99,27,5.67,21.43,9405,Cloudy,No,No
+2026-01-30,Friday,Dal Khichdi,60,80,70,10,2.02,12.5,4200,Rainy,No,No
+2026-01-31,Saturday,Masala Dosa,55,75,67,8,1.88,10.67,3685,Cloudy,No,No
+2026-02-01,Sunday,Rajma Rice,75,84,65,19,4.42,22.62,4875,Cloudy,No,Yes
+2026-02-02,Monday,Idli Sambar,45,136,106,30,8.03,22.06,4770,Cloudy,No,Yes
+2026-02-03,Tuesday,Poha,35,91,80,11,2.04,12.09,2800,Sunny,No,No
+2026-02-04,Wednesday,Paneer Rice Bowl,95,122,110,12,3.23,9.84,10450,Sunny,No,No
+2026-02-05,Thursday,Paneer Rice Bowl,95,138,122,16,3.86,11.59,11590,Rainy,No,No
+2026-02-06,Friday,Paneer Rice Bowl,95,142,114,28,7.4,19.72,10830,Rainy,No,No
+2026-02-07,Saturday,Rajma Rice,75,44,41,3,0.71,6.82,3075,Sunny,Yes,No
+2026-02-08,Sunday,Masala Dosa,55,75,63,12,2.52,16.0,3465,Rainy,No,No
+2026-02-09,Monday,Masala Dosa,55,155,133,22,4.31,14.19,7315,Cloudy,No,No
+2026-02-10,Tuesday,Idli Sambar,45,114,103,11,2.36,9.65,4635,Rainy,No,No
+2026-02-11,Wednesday,Idli Sambar,45,111,97,14,2.69,12.61,4365,Rainy,No,No
+2026-02-12,Thursday,Pav Bhaji,65,173,153,20,5.4,11.56,9945,Cloudy,No,No
+2026-02-13,Friday,Veg Biryani,85,156,122,34,7.87,21.79,10370,Sunny,No,No
+2026-02-14,Saturday,Pav Bhaji,65,80,57,23,4.95,28.75,3705,Sunny,No,No
+2026-02-15,Sunday,Veg Thali,80,82,63,19,3.44,23.17,5040,Rainy,No,No
+2026-02-16,Monday,Paneer Rice Bowl,95,103,87,16,3.78,15.53,8265,Rainy,No,No
+2026-02-17,Tuesday,Veg Biryani,85,195,164,31,8.14,15.9,13940,Rainy,No,Yes
+2026-02-18,Wednesday,Rajma Rice,75,105,95,10,2.55,9.52,7125,Sunny,No,No
+2026-02-19,Thursday,Masala Dosa,55,153,132,21,4.48,13.73,7260,Sunny,No,No
+2026-02-20,Friday,Pav Bhaji,65,146,123,23,5.56,15.75,7995,Rainy,No,No
+2026-02-21,Saturday,Chole Bhature,70,62,53,9,1.89,14.52,3710,Rainy,No,No
+2026-02-22,Sunday,Veg Thali,80,78,63,15,2.74,19.23,5040,Cloudy,No,No
+2026-02-23,Monday,Pav Bhaji,65,117,98,19,4.53,16.24,6370,Rainy,No,No
+2026-02-24,Tuesday,Dal Khichdi,60,114,110,4,0.76,3.51,6600,Cloudy,No,No
+2026-02-25,Wednesday,Veg Thali,80,247,193,54,13.9,21.86,15440,Cloudy,No,No
+2026-02-26,Thursday,Pav Bhaji,65,140,120,20,4.56,14.29,7800,Sunny,No,No
+2026-02-27,Friday,Idli Sambar,45,85,71,14,3.6,16.47,3195,Rainy,No,No
+2026-02-28,Saturday,Chole Bhature,70,60,48,12,3.09,20.0,3360,Sunny,No,No
+2026-03-01,Sunday,Masala Dosa,55,71,64,7,1.82,9.86,3520,Cloudy,No,No
+2026-03-02,Monday,Chole Bhature,70,91,74,17,4.43,18.68,5180,Rainy,No,No
+2026-03-03,Tuesday,Chole Bhature,70,108,91,17,3.5,15.74,6370,Sunny,Yes,No
+2026-03-04,Wednesday,Pav Bhaji,65,155,141,14,3.34,9.03,9165,Cloudy,No,No
+2026-03-05,Thursday,Masala Dosa,55,102,76,26,5.75,25.49,4180,Sunny,Yes,No
+2026-03-06,Friday,Pav Bhaji,65,127,116,11,2.95,8.66,7540,Sunny,Yes,No
+2026-03-07,Saturday,Pav Bhaji,65,57,50,7,1.9,12.28,3250,Cloudy,No,No
+2026-03-08,Sunday,Paneer Rice Bowl,95,57,41,16,4.29,28.07,3895,Rainy,No,No
+2026-03-09,Monday,Dal Khichdi,60,110,81,29,7.39,26.36,4860,Cloudy,No,Yes
+2026-03-10,Tuesday,Chole Bhature,70,106,91,15,3.66,14.15,6370,Rainy,No,Yes
+2026-03-11,Wednesday,Poha,35,76,60,16,3.06,21.05,2100,Rainy,No,No
+2026-03-12,Thursday,Dal Khichdi,60,117,92,25,6.39,21.37,5520,Rainy,No,No
+2026-03-13,Friday,Dal Khichdi,60,145,112,33,6.23,22.76,6720,Cloudy,No,No
+2026-03-14,Saturday,Paneer Rice Bowl,95,60,51,9,1.86,15.0,4845,Cloudy,No,No
+2026-03-15,Sunday,Veg Biryani,85,67,57,10,2.04,14.93,4845,Sunny,No,No
+2026-03-16,Monday,Paneer Rice Bowl,95,96,74,22,4.22,22.92,7030,Rainy,No,No
+2026-03-17,Tuesday,Chole Bhature,70,125,103,22,6.14,17.6,7210,Sunny,No,No
+2026-03-18,Wednesday,Veg Biryani,85,174,140,34,8.43,19.54,11900,Cloudy,No,No
+2026-03-19,Thursday,Rajma Rice,75,104,84,20,5.43,19.23,6300,Cloudy,No,No
+2026-03-20,Friday,Paneer Rice Bowl,95,86,81,5,1.12,5.81,7695,Rainy,Yes,No
+2026-03-21,Saturday,Masala Dosa,55,68,53,15,2.9,22.06,2915,Rainy,No,No
+2026-03-22,Sunday,Idli Sambar,45,54,48,6,1.08,11.11,2160,Cloudy,No,Yes
+2026-03-23,Monday,Masala Dosa,55,177,141,36,6.7,20.34,7755,Cloudy,No,Yes
+2026-03-24,Tuesday,Paneer Rice Bowl,95,120,99,21,5.14,17.5,9405,Cloudy,No,No
+2026-03-25,Wednesday,Idli Sambar,45,138,111,27,5.87,19.57,4995,Cloudy,No,No
+2026-03-26,Thursday,Poha,35,110,93,17,3.44,15.45,3255,Sunny,No,No
+2026-03-27,Friday,Veg Thali,80,244,196,48,11.19,19.67,15680,Cloudy,No,No
+2026-03-28,Saturday,Masala Dosa,55,76,55,21,5.17,27.63,3025,Cloudy,No,No
+2026-03-29,Sunday,Rajma Rice,75,68,56,12,2.87,17.65,4200,Sunny,No,No
+2026-03-30,Monday,Pav Bhaji,65,142,120,22,5.62,15.49,7800,Sunny,No,No
+2026-03-31,Tuesday,Veg Thali,80,229,184,45,9.54,19.65,14720,Sunny,No,No
+2026-04-01,Wednesday,Rajma Rice,75,133,102,31,6.51,23.31,7650,Sunny,No,No
+2026-04-02,Thursday,Veg Thali,80,216,167,49,10.91,22.69,13360,Rainy,No,No
+2026-04-03,Friday,Pav Bhaji,65,79,67,12,2.34,15.19,4355,Rainy,Yes,No
+2026-04-04,Saturday,Idli Sambar,45,44,33,11,2.76,25.0,1485,Sunny,No,No
+2026-04-05,Sunday,Pav Bhaji,65,56,47,9,2.2,16.07,3055,Cloudy,No,No
+2026-04-06,Monday,Pav Bhaji,65,134,96,38,8.27,28.36,6240,Rainy,No,No
+2026-04-07,Tuesday,Rajma Rice,75,144,110,34,6.83,23.61,8250,Sunny,No,No
+2026-04-08,Wednesday,Veg Biryani,85,149,118,31,5.94,20.81,10030,Sunny,No,No
+2026-04-09,Thursday,Pav Bhaji,65,140,119,21,4.58,15.0,7735,Rainy,No,No
+2026-04-10,Friday,Poha,35,130,107,23,4.37,17.69,3745,Cloudy,No,No
+2026-04-11,Saturday,Pav Bhaji,65,59,46,13,2.53,22.03,2990,Sunny,No,No
+2026-04-12,Sunday,Chole Bhature,70,54,43,11,2.34,20.37,3010,Rainy,No,No
+2026-04-13,Monday,Idli Sambar,45,87,80,7,1.94,8.05,3600,Rainy,No,No
+2026-04-14,Tuesday,Pav Bhaji,65,113,104,9,2.06,7.96,6760,Cloudy,No,No
+2026-04-15,Wednesday,Poha,35,125,97,28,7.18,22.4,3395,Rainy,No,No
+2026-04-16,Thursday,Idli Sambar,45,125,91,34,7.84,27.2,4095,Sunny,No,No
+2026-04-17,Friday,Veg Biryani,85,107,99,8,1.77,7.48,8415,Rainy,Yes,No
+2026-04-18,Saturday,Veg Thali,80,75,73,2,0.49,2.67,5840,Cloudy,No,No
+2026-04-19,Sunday,Dal Khichdi,60,34,29,5,1.3,14.71,1740,Sunny,Yes,No
+2026-04-20,Monday,Paneer Rice Bowl,95,136,123,13,2.73,9.56,11685,Rainy,No,No
+2026-04-21,Tuesday,Paneer Rice Bowl,95,153,116,37,6.69,24.18,11020,Sunny,No,No
+2026-04-22,Wednesday,Dal Khichdi,60,84,66,18,4.78,21.43,3960,Rainy,Yes,No
+2026-04-23,Thursday,Paneer Rice Bowl,95,157,119,38,7.02,24.2,11305,Sunny,No,No
+2026-04-24,Friday,Paneer Rice Bowl,95,155,117,38,10.37,24.52,11115,Rainy,No,No
+2026-04-25,Saturday,Veg Biryani,85,50,40,10,1.96,20.0,3400,Sunny,Yes,No
+2026-04-26,Sunday,Masala Dosa,55,52,39,13,3.32,25.0,2145,Rainy,No,No
+2026-04-27,Monday,Dal Khichdi,60,69,63,6,1.58,8.7,3780,Sunny,No,No
+2026-04-28,Tuesday,Veg Biryani,85,141,124,17,3.11,12.06,10540,Rainy,No,No
+2026-04-29,Wednesday,Chole Bhature,70,102,88,14,3.44,13.73,6160,Sunny,No,No
+2026-04-30,Thursday,Paneer Rice Bowl,95,176,130,46,8.99,26.14,12350,Sunny,No,No
+2026-05-01,Friday,Dal Khichdi,60,141,123,18,3.42,12.77,7380,Sunny,No,No
+2026-05-02,Saturday,Paneer Rice Bowl,95,64,50,14,2.65,21.88,4750,Rainy,No,No
+2026-05-03,Sunday,Poha,35,32,28,4,1.01,12.5,980,Cloudy,Yes,No
+2026-05-04,Monday,Poha,35,91,77,14,2.76,15.38,2695,Rainy,No,No
+2026-05-05,Tuesday,Chole Bhature,70,127,114,13,2.81,10.24,7980,Sunny,No,No
+2026-05-06,Wednesday,Masala Dosa,55,135,112,23,4.84,17.04,6160,Rainy,No,No
+2026-05-07,Thursday,Idli Sambar,45,108,86,22,5.27,20.37,3870,Cloudy,No,No
+2026-05-08,Friday,Chole Bhature,70,132,104,28,6.16,21.21,7280,Sunny,No,No
+2026-05-09,Saturday,Veg Biryani,85,83,69,14,3.62,16.87,5865,Cloudy,No,No
+2026-05-10,Sunday,Veg Biryani,85,49,35,14,3.59,28.57,2975,Rainy,Yes,No
+2026-05-11,Monday,Veg Thali,80,210,151,59,15.62,28.1,12080,Rainy,No,No
+2026-05-12,Tuesday,Idli Sambar,45,130,117,13,3.27,10.0,5265,Cloudy,No,No
+2026-05-13,Wednesday,Idli Sambar,45,78,62,16,3.55,20.51,2790,Cloudy,Yes,No
+2026-05-14,Thursday,Veg Thali,80,176,150,26,4.96,14.77,12000,Rainy,No,No
+2026-05-15,Friday,Masala Dosa,55,122,100,22,6.09,18.03,5500,Rainy,No,No
+2026-05-16,Saturday,Veg Biryani,85,59,51,8,2.04,13.56,4335,Sunny,No,No
+2026-05-17,Sunday,Poha,35,43,35,8,1.56,18.6,1225,Cloudy,No,No
+2026-05-18,Monday,Veg Thali,80,208,197,11,2.14,5.29,15760,Sunny,No,No
+2026-05-19,Tuesday,Chole Bhature,70,96,83,13,2.75,13.54,5810,Rainy,No,No
+2026-05-20,Wednesday,Chole Bhature,70,99,78,21,5.2,21.21,5460,Sunny,Yes,No
+2026-05-21,Thursday,Dal Khichdi,60,107,92,15,3.05,14.02,5520,Rainy,No,No
+2026-05-22,Friday,Idli Sambar,45,108,84,24,5.79,22.22,3780,Rainy,No,No
+2026-05-23,Saturday,Masala Dosa,55,69,57,12,2.24,17.39,3135,Sunny,No,No
+2026-05-24,Sunday,Paneer Rice Bowl,95,54,46,8,1.65,14.81,4370,Cloudy,No,No
+2026-05-25,Monday,Pav Bhaji,65,107,95,12,2.71,11.21,6175,Rainy,No,No
+2026-05-26,Tuesday,Dal Khichdi,60,134,103,31,7.66,23.13,6180,Cloudy,No,No
+2026-05-27,Wednesday,Veg Biryani,85,108,93,15,3.56,13.89,7905,Sunny,Yes,No
+2026-05-28,Thursday,Idli Sambar,45,118,94,24,4.74,20.34,4230,Rainy,No,No
+2026-05-29,Friday,Dal Khichdi,60,135,109,26,5.94,19.26,6540,Cloudy,No,No
+2026-05-30,Saturday,Masala Dosa,55,53,42,11,2.52,20.75,2310,Rainy,No,No
+2026-05-31,Sunday,Pav Bhaji,65,59,52,7,1.46,11.86,3380,Sunny,No,No
+2026-06-01,Monday,Pav Bhaji,65,133,102,31,5.93,23.31,6630,Cloudy,No,No
+2026-06-02,Tuesday,Poha,35,97,84,13,3.3,13.4,2940,Sunny,No,No
+2026-06-03,Wednesday,Masala Dosa,55,123,113,10,1.89,8.13,6215,Cloudy,No,No
+2026-06-04,Thursday,Paneer Rice Bowl,95,117,94,23,4.52,19.66,8930,Rainy,No,No
+2026-06-05,Friday,Dal Khichdi,60,110,90,20,4.79,18.18,5400,Sunny,No,No
+2026-06-06,Saturday,Dal Khichdi,60,38,33,5,1.31,13.16,1980,Cloudy,No,No
+2026-06-07,Sunday,Dal Khichdi,60,49,39,10,1.93,20.41,2340,Sunny,No,No
+2026-06-08,Monday,Dal Khichdi,60,116,97,19,3.93,16.38,5820,Sunny,No,No
+2026-06-09,Tuesday,Idli Sambar,45,115,101,14,3.49,12.17,4545,Sunny,No,Yes
+2026-06-10,Wednesday,Veg Biryani,85,184,150,34,7.68,18.48,12750,Rainy,No,No
+2026-06-11,Thursday,Veg Biryani,85,151,132,19,3.82,12.58,11220,Cloudy,No,No
+2026-06-12,Friday,Chole Bhature,70,97,79,18,4.47,18.56,5530,Rainy,No,No
+2026-06-13,Saturday,Veg Thali,80,55,54,1,0.2,1.82,4320,Cloudy,Yes,No
+2026-06-14,Sunday,Pav Bhaji,65,63,47,16,4.28,25.4,3055,Sunny,Yes,No
+2026-06-15,Monday,Chole Bhature,70,87,78,9,1.77,10.34,5460,Sunny,Yes,No
+2026-06-16,Tuesday,Idli Sambar,45,100,86,14,2.63,14.0,3870,Sunny,No,No
+2026-06-17,Wednesday,Rajma Rice,75,120,108,12,2.3,10.0,8100,Sunny,No,No
+2026-06-18,Thursday,Idli Sambar,45,89,78,11,2.95,12.36,3510,Sunny,No,No
+2026-06-19,Friday,Dal Khichdi,60,134,110,24,4.48,17.91,6600,Sunny,No,No
+2026-06-20,Saturday,Rajma Rice,75,42,35,7,1.69,16.67,2625,Cloudy,Yes,No
+2026-06-21,Sunday,Pav Bhaji,65,63,53,10,2.53,15.87,3445,Sunny,No,No
+2026-06-22,Monday,Veg Biryani,85,152,135,17,4.29,11.18,11475,Sunny,No,No
+2026-06-23,Tuesday,Chole Bhature,70,144,105,39,9.39,27.08,7350,Rainy,No,No
+2026-06-24,Wednesday,Masala Dosa,55,147,126,21,4.29,14.29,6930,Sunny,No,No
+2026-06-25,Thursday,Rajma Rice,75,82,65,17,3.28,20.73,4875,Sunny,Yes,No
+2026-06-26,Friday,Rajma Rice,75,143,103,40,7.47,27.97,7725,Sunny,No,No
+2026-06-27,Saturday,Chole Bhature,70,39,33,6,1.38,15.38,2310,Cloudy,No,No
+2026-06-28,Sunday,Idli Sambar,45,36,30,6,1.39,16.67,1350,Rainy,No,No
+2026-06-29,Monday,Masala Dosa,55,140,121,19,5.01,13.57,6655,Cloudy,No,No
+2026-06-30,Tuesday,Paneer Rice Bowl,95,142,118,24,5.78,16.9,11210,Sunny,No,No
+2026-07-01,Wednesday,Chole Bhature,70,117,109,8,2.0,6.84,7630,Sunny,No,No
+2026-07-02,Thursday,Dal Khichdi,60,99,83,16,4.13,16.16,4980,Rainy,No,No
+2026-07-03,Friday,Chole Bhature,70,99,84,15,3.49,15.15,5880,Sunny,No,No
+2026-01-05,Monday,Chole Bhature,70,98,94,4,0.79,4.08,6580,Sunny,No,No
+2026-01-06,Tuesday,Dal Khichdi,60,107,80,27,6.86,25.23,4800,Rainy,No,No
+2026-01-07,Wednesday,Veg Thali,80,180,129,51,14.08,28.33,10320,Sunny,Yes,No
+2026-01-08,Thursday,Veg Thali,80,199,152,47,9.63,23.62,12160,Rainy,No,No
+2026-01-09,Friday,Veg Biryani,85,205,179,26,6.02,12.68,15215,Cloudy,No,Yes
+2026-01-10,Saturday,Veg Thali,80,140,112,28,5.91,20.0,8960,Cloudy,No,Yes
+2026-01-11,Sunday,Paneer Rice Bowl,95,76,57,19,4.12,25.0,5415,Sunny,No,Yes
+2026-01-12,Monday,Pav Bhaji,65,169,134,35,7.16,20.71,8710,Rainy,No,No
+2026-01-13,Tuesday,Veg Thali,80,219,176,43,7.75,19.63,14080,Rainy,No,Yes
+2026-01-14,Wednesday,Idli Sambar,45,127,118,9,2.0,7.09,5310,Sunny,No,No
+2026-01-15,Thursday,Veg Thali,80,275,210,65,16.26,23.64,16800,Cloudy,No,No
+2026-01-16,Friday,Veg Biryani,85,151,129,22,5.76,14.57,10965,Rainy,No,No
+2026-01-17,Saturday,Paneer Rice Bowl,95,71,60,11,2.86,15.49,5700,Rainy,No,Yes
+2026-01-18,Sunday,Veg Biryani,85,77,54,23,5.91,29.87,4590,Sunny,No,No
+2026-01-19,Monday,Paneer Rice Bowl,95,130,116,14,3.15,10.77,11020,Cloudy,No,No
+2026-01-20,Tuesday,Pav Bhaji,65,162,122,40,10.02,24.69,7930,Sunny,No,No
+2026-01-21,Wednesday,Rajma Rice,75,117,86,31,5.73,26.5,6450,Cloudy,Yes,No
+2026-01-22,Thursday,Chole Bhature,70,159,126,33,7.77,20.75,8820,Sunny,No,No
+2026-01-23,Friday,Poha,35,112,84,28,5.59,25.0,2940,Sunny,No,No
+2026-01-24,Saturday,Idli Sambar,45,43,39,4,1.09,9.3,1755,Rainy,No,No
+2026-01-25,Sunday,Paneer Rice Bowl,95,51,41,10,2.13,19.61,3895,Rainy,Yes,Yes
+2026-01-26,Monday,Veg Thali,80,234,203,31,7.12,13.25,16240,Rainy,No,Yes
+2026-01-27,Tuesday,Idli Sambar,45,123,97,26,6.28,21.14,4365,Sunny,No,No
+2026-01-28,Wednesday,Rajma Rice,75,135,102,33,6.23,24.44,7650,Cloudy,No,No
+2026-01-29,Thursday,Idli Sambar,45,104,79,25,5.46,24.04,3555,Rainy,No,No
+2026-01-30,Friday,Veg Biryani,85,242,184,58,12.69,23.97,15640,Cloudy,No,No
+2026-01-31,Saturday,Dal Khichdi,60,40,39,1,0.23,2.5,2340,Sunny,Yes,No
+2026-02-01,Sunday,Rajma Rice,75,49,41,8,1.87,16.33,3075,Sunny,No,No
+2026-02-02,Monday,Veg Thali,80,202,181,21,5.55,10.4,14480,Rainy,No,No
+2026-02-03,Tuesday,Dal Khichdi,60,89,74,15,2.74,16.85,4440,Rainy,No,No
+2026-02-04,Wednesday,Veg Biryani,85,188,153,35,8.2,18.62,13005,Rainy,No,No
+2026-02-05,Thursday,Dal Khichdi,60,108,81,27,6.15,25.0,4860,Sunny,No,No
+2026-02-06,Friday,Veg Biryani,85,164,134,30,5.58,18.29,11390,Sunny,No,No
+2026-02-07,Saturday,Dal Khichdi,60,58,47,11,3.04,18.97,2820,Sunny,No,No
+2026-02-08,Sunday,Veg Biryani,85,64,55,9,2.47,14.06,4675,Rainy,No,No
+2026-02-09,Monday,Pav Bhaji,65,143,119,24,6.21,16.78,7735,Rainy,No,No
+2026-02-10,Tuesday,Masala Dosa,55,128,119,9,2.47,7.03,6545,Cloudy,No,No
+2026-02-11,Wednesday,Rajma Rice,75,125,117,8,2.18,6.4,8775,Rainy,No,No
+2026-02-12,Thursday,Rajma Rice,75,140,129,11,2.16,7.86,9675,Cloudy,No,No
+2026-02-13,Friday,Paneer Rice Bowl,95,155,117,38,7.85,24.52,11115,Rainy,No,No
+2026-02-14,Saturday,Masala Dosa,55,66,54,12,2.36,18.18,2970,Sunny,No,No
+2026-02-15,Sunday,Idli Sambar,45,42,38,4,1.04,9.52,1710,Rainy,No,No
+2026-02-16,Monday,Rajma Rice,75,94,80,14,2.89,14.89,6000,Sunny,No,No
+2026-02-17,Tuesday,Paneer Rice Bowl,95,97,81,16,4.39,16.49,7695,Cloudy,Yes,No
+2026-02-18,Wednesday,Paneer Rice Bowl,95,137,111,26,5.81,18.98,10545,Cloudy,No,No
+2026-02-19,Thursday,Veg Thali,80,127,108,19,5.18,14.96,8640,Sunny,Yes,No
+2026-02-20,Friday,Poha,35,114,93,21,3.89,18.42,3255,Sunny,No,No
+2026-02-21,Saturday,Veg Thali,80,91,73,18,3.41,19.78,5840,Rainy,No,No
+2026-02-22,Sunday,Masala Dosa,55,67,52,15,4.04,22.39,2860,Sunny,No,No
+2026-02-23,Monday,Chole Bhature,70,88,74,14,2.78,15.91,5180,Sunny,Yes,No
+2026-02-24,Tuesday,Veg Thali,80,207,190,17,3.22,8.21,15200,Sunny,No,No
+2026-02-25,Wednesday,Veg Biryani,85,118,96,22,4.81,18.64,8160,Rainy,No,No
+2026-02-26,Thursday,Poha,35,90,77,13,3.45,14.44,2695,Cloudy,No,No
+2026-02-27,Friday,Veg Thali,80,185,150,35,6.72,18.92,12000,Rainy,No,No
+2026-02-28,Saturday,Pav Bhaji,65,64,57,7,1.56,10.94,3705,Sunny,No,No
+2026-03-01,Sunday,Dal Khichdi,60,47,33,14,3.06,29.79,1980,Rainy,No,No
+2026-03-02,Monday,Idli Sambar,45,83,66,17,3.95,20.48,2970,Rainy,No,No
+2026-03-03,Tuesday,Idli Sambar,45,80,67,13,3.56,16.25,3015,Rainy,Yes,No
+2026-03-04,Wednesday,Paneer Rice Bowl,95,173,127,46,11.29,26.59,12065,Cloudy,No,No
+2026-03-05,Thursday,Rajma Rice,75,132,113,19,4.71,14.39,8475,Cloudy,No,Yes
+2026-03-06,Friday,Idli Sambar,45,80,64,16,3.48,20.0,2880,Cloudy,Yes,No
+2026-03-07,Saturday,Veg Biryani,85,74,60,14,3.48,18.92,5100,Cloudy,No,No
+2026-03-08,Sunday,Masala Dosa,55,71,57,14,2.65,19.72,3135,Cloudy,No,No
+2026-03-09,Monday,Pav Bhaji,65,115,95,20,4.35,17.39,6175,Rainy,No,No
+2026-03-10,Tuesday,Veg Thali,80,213,166,47,11.13,22.07,13280,Cloudy,No,No
+2026-03-11,Wednesday,Dal Khichdi,60,96,83,13,3.53,13.54,4980,Sunny,No,No
+2026-03-12,Thursday,Masala Dosa,55,109,83,26,5.95,23.85,4565,Rainy,No,No
+2026-03-13,Friday,Pav Bhaji,65,151,121,30,7.91,19.87,7865,Rainy,No,No
+2026-03-14,Saturday,Chole Bhature,70,63,50,13,2.62,20.63,3500,Cloudy,No,No
+2026-03-15,Sunday,Masala Dosa,55,69,55,14,3.73,20.29,3025,Cloudy,No,No
+2026-03-16,Monday,Veg Thali,80,193,177,16,3.37,8.29,14160,Sunny,No,No
+2026-03-17,Tuesday,Chole Bhature,70,123,98,25,5.26,20.33,6860,Cloudy,No,No
+2026-03-18,Wednesday,Poha,35,166,131,35,8.27,21.08,4585,Sunny,No,No
+2026-03-19,Thursday,Rajma Rice,75,134,108,26,5.4,19.4,8100,Sunny,No,No
+2026-03-20,Friday,Veg Biryani,85,157,139,18,3.67,11.46,11815,Rainy,No,No
+2026-03-21,Saturday,Veg Thali,80,78,64,14,2.72,17.95,5120,Rainy,No,No
+2026-03-22,Sunday,Veg Thali,80,108,86,22,6.15,20.37,6880,Cloudy,No,No
+2026-03-23,Monday,Masala Dosa,55,126,108,18,4.87,14.29,5940,Rainy,No,No
+2026-03-24,Tuesday,Veg Biryani,85,139,118,21,4.32,15.11,10030,Rainy,No,No
+2026-03-25,Wednesday,Poha,35,95,74,21,4.25,22.11,2590,Rainy,No,No
+2026-03-26,Thursday,Masala Dosa,55,131,103,28,5.19,21.37,5665,Cloudy,No,No
+2026-03-27,Friday,Rajma Rice,75,160,122,38,10.14,23.75,9150,Cloudy,No,No
+2026-03-28,Saturday,Idli Sambar,45,53,45,8,2.17,15.09,2025,Sunny,No,No
+2026-03-29,Sunday,Pav Bhaji,65,72,56,16,3.89,22.22,3640,Sunny,No,No
+2026-03-30,Monday,Dal Khichdi,60,129,120,9,2.06,6.98,7200,Cloudy,No,Yes
+2026-03-31,Tuesday,Paneer Rice Bowl,95,162,144,18,3.93,11.11,13680,Cloudy,No,No
+2026-04-01,Wednesday,Veg Thali,80,241,183,58,10.46,24.07,14640,Sunny,No,No
+2026-04-02,Thursday,Masala Dosa,55,120,105,15,3.58,12.5,5775,Cloudy,No,No
+2026-04-03,Friday,Dal Khichdi,60,89,72,17,4.23,19.1,4320,Cloudy,Yes,Yes
+2026-04-04,Saturday,Dal Khichdi,60,56,41,15,4.06,26.79,2460,Cloudy,No,No
+2026-04-05,Sunday,Idli Sambar,45,36,28,8,2.01,22.22,1260,Sunny,Yes,No
+2026-04-06,Monday,Veg Thali,80,195,159,36,6.65,18.46,12720,Rainy,No,No
+2026-04-07,Tuesday,Paneer Rice Bowl,95,157,135,22,5.5,14.01,12825,Rainy,No,Yes
+2026-04-08,Wednesday,Masala Dosa,55,160,126,34,7.89,21.25,6930,Cloudy,No,No
+2026-04-09,Thursday,Rajma Rice,75,104,94,10,2.3,9.62,7050,Sunny,No,No
+2026-04-10,Friday,Rajma Rice,75,129,95,34,7.51,26.36,7125,Rainy,No,No
+2026-04-11,Saturday,Dal Khichdi,60,32,26,6,1.13,18.75,1560,Sunny,Yes,No
+2026-04-12,Sunday,Paneer Rice Bowl,95,59,46,13,2.44,22.03,4370,Sunny,No,No
+2026-04-13,Monday,Paneer Rice Bowl,95,151,118,33,6.52,21.85,11210,Cloudy,No,No
+2026-04-14,Tuesday,Veg Thali,80,177,158,19,3.6,10.73,12640,Rainy,No,No
+2026-04-15,Wednesday,Veg Thali,80,139,118,21,5.62,15.11,9440,Rainy,Yes,No
+2026-04-16,Thursday,Paneer Rice Bowl,95,148,131,17,3.52,11.49,12445,Sunny,No,No
+2026-04-17,Friday,Idli Sambar,45,92,85,7,1.3,7.61,3825,Cloudy,No,No
+2026-04-18,Saturday,Dal Khichdi,60,30,24,6,1.19,20.0,1440,Cloudy,Yes,No
+2026-04-19,Sunday,Idli Sambar,45,57,43,14,3.2,24.56,1935,Rainy,No,No
+2026-04-20,Monday,Idli Sambar,45,107,95,12,2.97,11.21,4275,Rainy,No,Yes
+2026-04-21,Tuesday,Rajma Rice,75,137,110,27,6.03,19.71,8250,Rainy,No,No
+2026-04-22,Wednesday,Masala Dosa,55,117,104,13,3.07,11.11,5720,Rainy,No,No
+2026-04-23,Thursday,Rajma Rice,75,81,64,17,4.34,20.99,4800,Sunny,Yes,No
+2026-04-24,Friday,Veg Biryani,85,160,133,27,5.88,16.88,11305,Sunny,No,No
+2026-04-25,Saturday,Masala Dosa,55,31,25,6,1.38,19.35,1375,Rainy,Yes,No
+2026-04-26,Sunday,Veg Thali,80,65,56,9,2.33,13.85,4480,Rainy,Yes,No
+2026-04-27,Monday,Rajma Rice,75,136,100,36,6.68,26.47,7500,Rainy,No,No
+2026-04-28,Tuesday,Masala Dosa,55,161,135,26,5.62,16.15,7425,Rainy,No,No
+2026-04-29,Wednesday,Pav Bhaji,65,118,99,19,4.46,16.1,6435,Sunny,Yes,No
+2026-04-30,Thursday,Veg Biryani,85,201,175,26,6.61,12.94,14875,Sunny,No,Yes
+2026-05-01,Friday,Idli Sambar,45,91,84,7,1.39,7.69,3780,Sunny,Yes,No
+2026-05-02,Saturday,Veg Biryani,85,58,45,13,3.34,22.41,3825,Rainy,Yes,No
+2026-05-03,Sunday,Pav Bhaji,65,63,48,15,4.1,23.81,3120,Rainy,No,No
+2026-05-04,Monday,Rajma Rice,75,152,115,37,9.68,24.34,8625,Sunny,No,No
+2026-05-05,Tuesday,Paneer Rice Bowl,95,133,105,28,7.17,21.05,9975,Cloudy,No,No
+2026-05-06,Wednesday,Chole Bhature,70,124,98,26,5.75,20.97,6860,Cloudy,No,No
+2026-05-07,Thursday,Poha,35,99,76,23,5.58,23.23,2660,Cloudy,No,No
+2026-05-08,Friday,Chole Bhature,70,100,77,23,6.34,23.0,5390,Sunny,No,No
+2026-05-09,Saturday,Poha,35,44,37,7,1.73,15.91,1295,Rainy,No,No
+2026-05-10,Sunday,Idli Sambar,45,47,43,4,1.04,8.51,1935,Rainy,No,No
+2026-05-11,Monday,Poha,35,75,56,19,3.96,25.33,1960,Sunny,Yes,No
+2026-05-12,Tuesday,Chole Bhature,70,137,122,15,3.24,10.95,8540,Cloudy,No,Yes
+2026-05-13,Wednesday,Pav Bhaji,65,88,69,19,4.39,21.59,4485,Rainy,Yes,No
+2026-05-14,Thursday,Chole Bhature,70,149,133,16,4.44,10.74,9310,Cloudy,No,Yes
+2026-05-15,Friday,Veg Biryani,85,192,157,35,9.2,18.23,13345,Rainy,No,Yes
+2026-05-16,Saturday,Veg Biryani,85,71,65,6,1.2,8.45,5525,Rainy,No,No
+2026-05-17,Sunday,Pav Bhaji,65,69,58,11,2.29,15.94,3770,Sunny,No,No
+2026-05-18,Monday,Chole Bhature,70,107,98,9,2.46,8.41,6860,Cloudy,No,No
+2026-05-19,Tuesday,Veg Thali,80,228,170,58,15.02,25.44,13600,Sunny,No,No
+2026-05-20,Wednesday,Poha,35,87,75,12,2.78,13.79,2625,Cloudy,No,No
+2026-05-21,Thursday,Poha,35,104,89,15,3.24,14.42,3115,Cloudy,No,No
+2026-05-22,Friday,Masala Dosa,55,173,136,37,10.29,21.39,7480,Cloudy,No,No
+2026-05-23,Saturday,Veg Thali,80,78,66,12,2.98,15.38,5280,Sunny,Yes,No
+2026-05-24,Sunday,Veg Biryani,85,64,54,10,2.08,15.62,4590,Sunny,No,No
